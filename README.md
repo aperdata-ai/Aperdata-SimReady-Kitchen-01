@@ -6,7 +6,7 @@
 
 A curated collection of SimReady 3D kitchen assets for **World Models** and **Physical AI** research — optimized for synthetic data generation, scene composition, embodied AI simulation, and vision-language / robot-learning experiments. Free for non-commercial use.
 
-![Dataset Banner](https://cdn-uploads.huggingface.co/production/uploads/69d99589d65f93e818d003d9/3keA8F0YX5D38kmvu9jRb.png)
+<img width="1710" height="961" alt="Aperdata-SimReady-Kitchen-01" src="https://github.com/user-attachments/assets/b1805b62-fda6-4693-8e84-b26c93033a35" />
 
 ---
 
