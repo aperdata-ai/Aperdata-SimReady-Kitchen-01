@@ -39,6 +39,8 @@ A curated collection of SimReady 3D kitchen assets for **World Models** and **Ph
 
 ## Asset List
 
+Scene：Kitchen_Indoor
+
 | # | Asset Name |
 |---|---|
 | 1 | biscuit |
