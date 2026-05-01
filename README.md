@@ -101,6 +101,8 @@ Please use this dataset responsibly and only for lawful, ethical research and de
 
 This dataset is released under the [Creative Commons Attribution 4.0 International (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
+For commercial licensing, contact service@aperdata.ai
+
 ---
 
 ## Citation
